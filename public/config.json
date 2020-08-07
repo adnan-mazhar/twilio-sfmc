@@ -30,7 +30,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "c0513229-9395-4a78-b735-48589b6cf31b",
+      "applicationExtensionKey": "0c6d69b1-8056-4cf8-a4e0-60d1d201acdc",
        "save": {
            "url": "https://lixil-twilio.herokuapp.com/save",
             "verb": "POST",
