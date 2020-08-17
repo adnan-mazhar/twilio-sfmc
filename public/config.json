@@ -21,7 +21,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://lixil-twilio.herokuapp.com/journeybuilder/execute",
+            "url": "https://lixiltwilio.herokuapp.com/journeybuilder/execute",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -32,7 +32,7 @@
     "configurationArguments": {
       "applicationExtensionKey": "c0513229-9395-4a78-b735-48589b6cf31b",
        "save": {
-           "url": "https://lixil-twilio.herokuapp.com/save",
+           "url": "https://lixiltwilio.herokuapp.com/save",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -40,7 +40,7 @@
             "timeout": 2000
        },
        "publish": {
-           "url": "https://lixil-twilio.herokuapp.com/publish",
+           "url": "https://lixiltwilio.herokuapp.com/publish",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -48,7 +48,7 @@
             "timeout": 2000
        },
        "validate": {
-           "url": "https://lixil-twilio.herokuapp.com/validate",
+           "url": "https://lixiltwilio.herokuapp.com/validate",
             "verb": "POST",
             "body": "",
             "format": "json",
@@ -56,7 +56,7 @@
             "timeout": 2000
        },
        "stop": {
-           "url": "https://lixil-twilio.herokuapp.com/stop",
+           "url": "https://lixiltwilio.herokuapp.com/stop",
             "verb": "POST",
             "body": "",
             "format": "json",
