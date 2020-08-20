@@ -22,7 +22,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://lixiltwilio.herokuapp.com/activity/execute/",
+            "url": "https://lixiltwilio.herokuapp.com/journeybuilder/execute/",
             "verb": "POST",
             "body": "",
             "format": "json",
